@@ -12,11 +12,11 @@
 hs_err_pid*
 
 # Build files
-boehm-creals/target/surefire/
-jinterval-complex/target/surefire/
-jinterval-field/target/surefire/
-jinterval-interval-java/target/surefire/
-jinterval-ir/target/surefire/
-jinterval-rational-java/target/surefire/
-jinterval-text2interval/target/surefire/
-large-tests-java/target/classes/
+boehm-creals/target/
+jinterval-complex/target/
+jinterval-field/target/
+jinterval-interval-java/target/
+jinterval-ir/target/
+jinterval-rational-java/target/
+jinterval-text2interval/target/
+large-tests-java/target/
