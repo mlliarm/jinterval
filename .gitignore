@@ -10,3 +10,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Build files
+boehm-creals/target/surefire/
+jinterval-complex/target/surefire/
+jinterval-field/target/surefire/
+jinterval-interval-java/target/surefire/
+jinterval-ir/target/surefire/
+jinterval-rational-java/target/surefire/
+jinterval-text2interval/target/surefire/
+large-tests-java/target/classes/
