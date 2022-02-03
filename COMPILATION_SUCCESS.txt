@@ -4,7 +4,17 @@ https://code.yawk.at/java/8/sun/misc/DoubleConsts.java
 
 under the directory: jinterval/jinterval-proofs/src/main/java/sun/misc/
 
-compilation succeded:
+compilation succeded.
+
+---
+How to do it yourself under a GNU/Linux system, run the following command:
+
+```shell
+wget https://code.yawk.at/java/8/sun/misc/DoubleConsts.java \
+&& mkdir jinterval-proofs/src/main/java/sun/ \
+&& mkdir jinterval-proofs/src/main/java/sun/misc/ \
+&& mv DoubleConsts.java jinterval-proofs/src/main/java/sun/misc/
+```
 
 [INFO] ------------------------------------------------------------------------
 [INFO] Reactor Summary for jinterval 0.1-SNAPSHOT:
